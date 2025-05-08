@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-08T15:43:48.975Z",
+  "created_by": "jwd",
+  "title": "BS",
+  "slug": "bs",
+  "updated_at": "2025-05-08T15:43:48.975Z",
+  "updated_by": "jwd",
+  "parent": "775c062a-fd38-4d52-b31d-b2b569d9db2c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "d6f81278-c3a0-488a-a57b-e72d771a53d1"
+  }
+}
