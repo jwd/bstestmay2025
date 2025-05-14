@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-14T13:42:12.096Z",
+  "created_by": "jwd",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1-2",
+  "updated_at": "2025-05-14T13:42:12.096Z",
+  "updated_by": "jwd",
+  "parent": "775c062a-fd38-4d52-b31d-b2b569d9db2c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "bb3cd4c1-4bbb-426f-8a5b-fdb82ee1183d"
+  }
+}
